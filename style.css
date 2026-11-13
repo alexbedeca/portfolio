@@ -1,5 +1,5 @@
 body {
-    background-color: #FFCA88;
+    background-color: #DE7272;
 }
 
 .custom-navbar-grid {
@@ -12,3 +12,6 @@ body {
     background-color: #DE7272;
 }
 
+.section-color {
+    background-color: #FFCA88; 
+}
