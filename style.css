@@ -1,5 +1,14 @@
+body {
+    background-color: #FFCA88;
+}
+
 .custom-navbar-grid {
     display: grid !important; 
     grid-template-columns: 1fr auto 1fr; 
     align-items:center;
 }
+
+.off-color {
+    background-color: #DE7272;
+}
+
