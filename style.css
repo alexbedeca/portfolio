@@ -15,3 +15,7 @@ body {
 .section-color {
     background-color: #FFCA88; 
 }
+
+h1 {
+    font-family: 'DM Sans', sans-serif;
+}
